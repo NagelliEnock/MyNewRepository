@@ -12,7 +12,7 @@ public class EmployeeDetails
 		this.empSal = empSal;
 	}
 
-	public void calulateSalary()
+	public void calculateSalary()
 	{
 		System.out.println("Employee Salary :"+(empSal+2000));
 	}
